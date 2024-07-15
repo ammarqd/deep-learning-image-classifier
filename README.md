@@ -1,2 +1,2 @@
 # PyTorch-Image-Classifier
-PyTorch Image Classifier for the CIFAR-10 dataset.
+An image classifier with a custom architecture, utilising knowledge learnt from a Neural Networks & Deep Learning module. Attained 91% accuracy on the CIFAR-10 dataset.
